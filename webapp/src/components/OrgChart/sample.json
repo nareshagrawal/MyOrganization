@@ -1,0 +1,52 @@
+{
+	"nodeId": "",
+	"parentNodeId": null,
+	"width": 500,
+	"height": 300,
+	"borderWidth": 1,
+	"borderRadius": 5,
+	"borderColor": {
+		"red": 15,
+		"green": 140,
+		"blue": 121,
+		"alpha": 1
+	},
+	"backgroundColor": {
+		"red": 78,
+		"green": 85,
+		"blue": 111,
+		"alpha": 1
+	},
+	"nodeImage": {
+		"url": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
+		"width": 150,
+		"height": 150,
+		"centerTopDistance": 0,
+		"centerLeftDistance": 0,
+		"cornerShape": "CIRCLE",
+		"shadow": false,
+		"borderWidth": 0,
+		"borderColor": {
+			"red": 19,
+			"green": 123,
+			"blue": 128,
+			"alpha": 1
+		}
+	},
+	"nodeIcon": {
+		"icon": "https://to.ly/1yZnX",
+		"size": 30
+	},
+	"template": "",
+	"connectorLineColor": {
+		"red": 220,
+		"green": 189,
+		"blue": 207,
+		"alpha": 1
+	},
+	"connectorLineWidth": 5,
+	"dashArray": "",
+	"expanded": true,
+	"directSubordinates": 4,
+	"totalSubordinates": 1515
+}
